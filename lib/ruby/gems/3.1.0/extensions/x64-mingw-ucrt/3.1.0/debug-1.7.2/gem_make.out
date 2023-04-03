@@ -1,0 +1,17 @@
+current directory: C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/debug-1.7.2/ext/debug
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230401-14380-mheusu sitelibdir\=./.gem.20230401-14380-mheusu clean
+
+current directory: C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230401-14380-mheusu sitelibdir\=./.gem.20230401-14380-mheusu
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230401-14380-mheusu sitelibdir\=./.gem.20230401-14380-mheusu install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230401-14380-mheusu/debug
